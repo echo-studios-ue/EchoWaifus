@@ -21,7 +21,7 @@ to EchoWaifus, the ultimate APK for exploring and collecting images of your favo
 
 
 ## Installation
-Download the EchoWaifus APK from the latest release.
+- Download the EchoWaifus APK from the latest release.
 
 - Enable "Install from Unknown Sources" in your device settings.
 
