@@ -5,6 +5,9 @@ to EchoWaifus, the ultimate APK for exploring and collecting images of your favo
 
 <img src="https://github.com/user-attachments/assets/c1168e67-aed2-438b-8b0b-606d21744c0e" alt="Echo Waifu main logo" height="250">
 
+## Documentación
+- Spanish: [README in Spanish](./README-es.md).
+
 ## Features
 - Download and View: Access stunning waifu images and download them directly to your device.
 
