@@ -5,7 +5,6 @@ a EchoWaifus, ¡la APK definitiva para explorar y coleccionar imágenes de tus w
 
 <img src="https://github.com/user-attachments/assets/c1168e67-aed2-438b-8b0b-606d21744c0e" alt="Echo Waifu logo principal" height="250">
 
-
 ## Documentación
 - Inglés: [README en Inglés](./README.md).
 
